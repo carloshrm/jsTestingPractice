@@ -1,0 +1,23 @@
+{
+  "name": "jstestingpractice",
+  "version": "1.0.0",
+  "description": "Using JEST for writing tests in Javascript.",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloshrm/jsTestingPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloshrm/jsTestingPractice/issues"
+  },
+  "homepage": "https://github.com/carloshrm/jsTestingPractice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
