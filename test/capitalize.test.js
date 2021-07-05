@@ -1,4 +1,4 @@
-const cap = require("./capitalize");
+const cap = require("../src/capitalize");
 
 test("comment", () => {
   expect(cap("string")).toBe("STRING");
